@@ -2186,6 +2186,10 @@ button,
       max-height: 35vh; } }
 
 /* Footer */
+#footer {
+  display:flex;
+  justify-content:center;
+}
 #footer .copyright {
   color: #9fa3a6;
   font-size: 0.9em; }
